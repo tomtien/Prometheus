@@ -27,7 +27,7 @@ Enums.Conventions = {
 			"+",  "-",  "*",  "/",  "%",  "^",  "#",
 			"==", "~=", "<=", ">=", "<",  ">",  "=",
 			"(",  ")",  "{",  "}",  "[",  "]",
-			";",  ":",  ",",  ".",  "..", "...",
+			";",  ":",  ",",  ".",  "..", "...","~","|","&","<<",">>"
 		},
 
 		IdentChars          = chararray("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_0123456789"),
